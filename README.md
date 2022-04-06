@@ -14,37 +14,67 @@ Download I2P for Desktop and or I2P for Android. This is an important step to fa
 # Translation Priorities
 
 **Urgent**
+
 routerconsole
+
 Website
+
 readme
+
 Router Status
+
 welcome
+
 I2P News
+
 Core Library
 
 **High**
+
 HTTP proxy error pages
+
 manpages
+
 Hidden Services Manager (i2ptunnel)
-Web Server Help (eepsite) 
+
+Web Server Help (eepsite)
+
 I2P Android
+
 AddressBook (susidns)
+
 I2P Android Helper Library
 
 **Normal**
+
 System Tray ( Desktop GUI)
+
 Website /misc/
+
 Command line option errors (getopt)
+
 Email (SusiMail)
+
 Website/docs
+
 I2PSnark Bittorrent Client
+
 Streaming
+
 itoopie-router control app
+
 Router Startup Script (i2prouter)
+
 Website /about/
+
 Website /comparison/
+
 Website /research/
+
 Website /get-involved/
+
 Website /blog/
+
 countries
+
 Debian Installer
