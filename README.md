@@ -1,4 +1,4 @@
-#Getting Started
+# Getting Started
 1. Create a Transifex Account:
 If you have not have a Transifex account, you can create one [here](https://www.transifex.com/signup/).
 
