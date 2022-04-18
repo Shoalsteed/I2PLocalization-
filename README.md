@@ -104,8 +104,8 @@ These defences make the routers more difficult to enumerate reliably, and protec
 
 **Router Distribution and Traffic Considerations**
 
-1.Hidden mode routers need non-hidden routers to provide them with a path to participate in the network. More is usually better, because this is where enumeration of non-hidden routers to interfere with their tunnels and connectivity might happen.
+1. Hidden mode routers need non-hidden routers to provide them with a path to participate in the network. More is usually better, because this is where enumeration of non-hidden routers to interfere with their tunnels and connectivity might happen.
 
 2. More traffic on the network results in better protection for everyone.
 
-3.The network needs mostly non-hidden routers.
+3. The network needs mostly non-hidden routers.
