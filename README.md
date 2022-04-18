@@ -79,7 +79,7 @@ countries
 
 Debian Installer
 
-# Regarding Strict Countries and Hidden Mode: Protection For I2P Participants Where Use may Be Prohibited
+# Regarding Strict Countries and Hidden Mode: Protection For I2P Participants Where Use May Be Prohibited
 
 I2P provides measures within its network and protocol design that provide circumvention, privacy and DPI protection for traffic and communication.
 What supports the I2P network technical capabilities is router distribution: having as many people as possible all over the world participating in the network. In recognition of countries where making use of privacy and anonymity technologies, protection for individuals participating in routing traffic have been put in place.
@@ -94,13 +94,18 @@ Routers that appear to be in the "Strict" countries will automatically be placed
 
 When a router is placed into hidden mode, three key things change about its behaviour.
 
-It will no longer publish a routerInfo to the NetDB. (Network database)
-It will no longer accept participating tunnels.
-it will reject direct connections to routers in the same country that it is in.
+1. It will no longer publish a routerInfo to the NetDB. (Network database)
+
+2. It will no longer accept participating tunnels.
+
+3. It will reject direct connections to routers in the same country that it is in.
+
 These defences make the routers more difficult to enumerate reliably, and protect them from restrictions on routing traffic for others.
 
 **Router Distribution and Traffic Considerations**
 
-Hidden mode routers need non-hidden routers to provide them with a path to participate in the network. More is usually better, because this is where enumeration of non-hidden routers to interfere with their tunnels and connectivity might happen.
-More traffic on the network results in better protection for everyone.
-The network needs mostly non-hidden routers.
+1.Hidden mode routers need non-hidden routers to provide them with a path to participate in the network. More is usually better, because this is where enumeration of non-hidden routers to interfere with their tunnels and connectivity might happen.
+
+2. More traffic on the network results in better protection for everyone.
+
+3.The network needs mostly non-hidden routers.
