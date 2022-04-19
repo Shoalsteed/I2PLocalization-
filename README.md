@@ -1,3 +1,12 @@
+# About I2P ( The Invisible Internet Project )
+
+I2P (The Invisible Internet Project), is a fully encrypted private network layer that has been developed with privacy and security by design in order to provide protection for your activity, location and your identity. 
+The desktop software ships with a router that connects you to the network and includes applications for sharing, communicating and building.
+
+The network has the same capabilities as the Internet: you can create and vistit I2P sites, email, create forums and share content. If you are an application developer, you can create your own I2P applications. 
+The protocol and software is Free-Open Source and community built. It has been in active development since 2001.
+
+
 # Getting Started
 1. Create a Transifex Account:
 If you have not have a Transifex account, you can create one [here](https://www.transifex.com/signup/).
