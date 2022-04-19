@@ -18,7 +18,7 @@ If you have not have a Transifex account, you can create one [here](https://www.
 
 Download I2P for Desktop and or I2P for Android. This is an important step to familiarize yourself with I2P.  I2P desktop offers the full range of application access, and admin options. I2P Android has less options and different usability workflows. This is also where you can familiarize yourself with the original English strings and translations in context.
 
-4. Review the [#Translation Guidelines](wiki.localizationlab.org/index.php/I2P](https://wiki.localizationlab.org/index.php/I2P).
+4. Review the **Translation Guidelines** (wiki.localizationlab.org/index.php/I2P](https://wiki.localizationlab.org/index.php/I2P).
 
 # Translation Priorities
 
