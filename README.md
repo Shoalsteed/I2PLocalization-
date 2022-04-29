@@ -119,4 +119,4 @@ These defences make the routers more difficult to enumerate reliably, and protec
 
 3. The network needs mostly non-hidden routers.
 
-[I2P Infographic](https://github.com/Shoalsteed/I2PLocalization-/issues/4#issuecomment-1081169880)
+[I2P Infographic](https://github.com/Shoalsteed/I2PInfographics/issues/2)
