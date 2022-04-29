@@ -118,3 +118,5 @@ These defences make the routers more difficult to enumerate reliably, and protec
 2. More traffic on the network results in better protection for everyone.
 
 3. The network needs mostly non-hidden routers.
+
+[I2P Infographic](https://github.com/Shoalsteed/I2PLocalization-/issues/4#issuecomment-1081169880)
