@@ -6,7 +6,7 @@ The desktop software ships with a router that connects you to the network and in
 The network has the same capabilities as the Internet: you can create and vistit I2P sites, email, create forums and share content. If you are an application developer, you can create your own I2P applications. 
 The protocol and software is Free-Open Source and community built. It has been in active development since 2001.
 
-[alt text](https://user-images.githubusercontent.com/50714166/165985249-800bac22-818b-4b69-abe1-5f9e4cad500e.png)
+(https://user-images.githubusercontent.com/50714166/165985249-800bac22-818b-4b69-abe1-5f9e4cad500e.png)
 
 # Getting Started
 1. Create a Transifex Account:
