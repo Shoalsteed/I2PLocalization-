@@ -6,8 +6,6 @@ The desktop software ships with a router that connects you to the network and in
 The network has the same capabilities as the Internet: you can create and vistit I2P sites, email, create forums and share content. If you are an application developer, you can create your own I2P applications. 
 The protocol and software is Free-Open Source and community built. It has been in active development since 2001.
 
-![img](https://user-images.githubusercontent.com/50714166/165985249-800bac22-818b-4b69-abe1-5f9e4cad500e.png "style=height:500 width:200")
-
 # Getting Started
 1. Create a Transifex Account:
 If you have not have a Transifex account, you can create one [here](https://www.transifex.com/signup/).
@@ -137,3 +135,9 @@ These defences make the routers more difficult to enumerate reliably, and protec
 3. The network needs mostly non-hidden routers.
 
 The Strict Countries list can be found here : https://geti2p.net/en/about/restrictive-countries
+
+# Infographics
+![img](https://user-images.githubusercontent.com/50714166/186962878-884811d8-f0ab-47a0-a06f-b0f99db3eb8b.png)
+
+![img](https://user-images.githubusercontent.com/50714166/186962882-0c4d6e52-3195-4ecd-bd2b-ecc6311dd64f.png)
+
