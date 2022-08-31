@@ -92,6 +92,20 @@ countries
 
 Debian Installer
 
+# Localization Focus
+
+Language outreach needs to consider router distribution as well as where there is a need for using I2P. This requires strategy for localization balance so that it supports building a greater anonymity sets with more routers in regions where I2P does not face restrictions for operation.
+
+To this end, focusing on localization efforts in French, Mandarin, and Portuguese can have a benefit for strengthening overall router distribution and creating a better opportunity for a increased anonymity for people who need to use I2P in more restricted regions.
+
+Our current requested languages are:
+Turkish
+Russian (Traditional, Ukrainian)
+Greek
+Slovenian
+Spanish(Latin America)
+Turkmen
+
 # Regarding Strict Countries and Hidden Mode: Protection For I2P Participants Where Use May Be Prohibited
 
 I2P provides measures within its network and protocol design that provide circumvention, privacy and DPI protection for traffic and communication.
@@ -123,3 +137,4 @@ These defences make the routers more difficult to enumerate reliably, and protec
 
 3. The network needs mostly non-hidden routers.
 
+The Strict Countries list can be found here : https://geti2p.net/en/about/restrictive-countries
