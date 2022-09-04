@@ -91,50 +91,13 @@ Debian Installer
 
 # Localization Focus
 
-Language outreach needs to consider router distribution as well as where there is a need for using I2P. This requires strategy for localization balance so that it supports building a greater anonymity sets with more routers in regions where I2P does not face restrictions for operation.
+Spanish
+Korean
+Italian
+Portuguese
+Swedish
 
-To this end, focusing on localization efforts in French, Mandarin, and Portuguese can have a benefit for strengthening overall router distribution and creating a better opportunity for a increased anonymity for people who need to use I2P in more restricted regions.
 
-Our current requested languages are:
-Turkish
-Russian (Traditional, Ukrainian)
-Greek
-Slovenian
-Spanish(Latin America)
-Turkmen
-
-# Regarding Strict Countries and Hidden Mode: Protection For I2P Participants Where Use May Be Prohibited
-
-I2P provides measures within its network and protocol design that provide circumvention, privacy and DPI protection for traffic and communication.
-What supports the I2P network technical capabilities is router distribution: having as many people as possible all over the world participating in the network. In recognition of countries where making use of privacy and anonymity technologies, protection for individuals participating in routing traffic have been put in place.
-
-The Java implementation of I2P includes a "Strict Countries List." This list is used to decide how routers should behave within regions where applications like I2P may be limited by law. While no countries that we know of prohibit using I2P, some have broad prohibitions on participating in routing traffic for others.
-
-The development team relies on the research provided by civil and digital rights organizations in order to make decisions that offer protections for its users. In the case of compiling a Strict Countries list, the ongoing research provided by Freedom House has been referenced. General guidance is to include countries with a Civil Liberties (CL) score of 16 or less or an Internet Freedom score of 39 or less (not free).
-
-Routers that appear to be in the "Strict" countries will automatically be placed into "Hidden" mode.
-
-**What Hidden Mode Means**
-
-When a router is placed into hidden mode, three key things change about its behaviour.
-
-1. It will no longer publish a routerInfo to the NetDB. (Network database)
-
-2. It will no longer accept participating tunnels.
-
-3. It will reject direct connections to routers in the same country that it is in.
-
-These defences make the routers more difficult to enumerate reliably, and protect them from restrictions on routing traffic for others.
-
-**Router Distribution and Traffic Considerations**
-
-1. Hidden mode routers need non-hidden routers to provide them with a path to participate in the network. More is usually better, because this is where enumeration of non-hidden routers to interfere with their tunnels and connectivity might happen.
-
-2. More traffic on the network results in better protection for everyone.
-
-3. The network needs mostly non-hidden routers.
-
-The Strict Countries list can be found here : https://geti2p.net/en/about/restrictive-countries
 
 # Infographics
 ![img](https://user-images.githubusercontent.com/50714166/186962878-884811d8-f0ab-47a0-a06f-b0f99db3eb8b.png)
