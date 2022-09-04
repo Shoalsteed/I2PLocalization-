@@ -92,9 +92,13 @@ Debian Installer
 # Localization Focus
 
 Spanish
+
 Korean
+
 Italian
+
 Portuguese
+
 Swedish
 
 
